@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LightManager!</string>
+    <string name="app_name">LightManager</string>
+    <string name="Blue">Blue</string>
+    <string name="Green">Green</string>
+    <string name="Red">Red</string>
+    <string name="Monitor">Monitor</string>
+</resources>
